@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://znetworks.duckdns.org/sitemap.xml
