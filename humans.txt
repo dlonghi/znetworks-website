@@ -1,0 +1,7 @@
+/* TEAM */
+Site: ZNetworks — https://znetworks.duckdns.org
+Contact: hey@znetworks.duckdns.org
+
+
+/* THANKS */
+Hosted on Cloudflare Pages
